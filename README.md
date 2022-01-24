@@ -1,3 +1,3 @@
-# HandWritten-Alphabets
+# Handwritten-English-Alphabets-classifier
 
-A CNN model that classifies handwritten English Alphabets.
+An Implementation of Handwritten English Alphabets classifier using CNN model(Machine Learning)
